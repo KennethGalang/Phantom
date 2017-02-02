@@ -4,7 +4,6 @@ Phantom is a software that recognizes hand gestures and voice commands to manipu
 
 The program is built for DeltaHacks 3, and is built using Python, OpenCV, and the Speech Recognition Package.
 
-Team
 
 [Frank Dong, B.Sc Computer Science (2019) - Western University](https://github.com/frankdongers)
 [Kenneth Galang, B.Sc Computer Science (2019) - Western University](https://github.com/kennygalang)
