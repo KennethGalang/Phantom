@@ -1,19 +1,22 @@
-## Phantom
-
-Phantom is a software that recognizes hand gestures and voice commands to manipulate programs, such as Microsoft PowerPoint to allow for accessibility and convenience.
+##Phantom##
+Phantom is a software that recognizes hand gestures and voice commands to manipulate programs,
+such as Microsoft PowerPoint to allow for accessibility and convenience.
 
 The program is built for DeltaHacks 3, and is built using Python, OpenCV, and the Speech Recognition Package.
 
-
+###Team###
 [Frank Dong, B.Sc Computer Science (2019) - Western University](https://github.com/frankdongers)
+
 [Kenneth Galang, B.Sc Computer Science (2019) - Western University](https://github.com/kennygalang)
+
 [Taran Gill, B.Eng Computer Engineering (2019) - McMaster University](https://github.com/taran-gill)
+
 [Michael Zhang, B.Eng Computer Engineering (2019) - McMaster University](https://github.com/zhangm13)
 
-### Download
-[Phantom](https://www.mediafire.com/?527gn4f2sxf7a24)
+###Download###
 
-### Pictures 
+Download Phantom [here](https://www.mediafire.com/?527gn4f2sxf7a24)
 
-![alt text][https://camo.githubusercontent.com/e2781f6c1c827bf26a2ead1af27d7ca13296388d/68747470733a2f2f7332332e706f7374696d672e6f72672f656e6e7a327663686e2f6f76657273686f756c6465722e6a7067]
-![alt text][https://camo.githubusercontent.com/522f11034dbf854b6184e25abe4bc1878e8064d3/68747470733a2f2f7332332e706f7374696d672e6f72672f6a6e6b656b636d64372f44656d6f2e706e67]
+###Pictures###
+![overshoulder.jpg](https://s23.postimg.org/ennz2vchn/overshoulder.jpg)
+![Demo.png](https://s23.postimg.org/jnkekcmd7/Demo.png)
